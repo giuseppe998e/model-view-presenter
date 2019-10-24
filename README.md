@@ -1,4 +1,4 @@
-## Model-View-Presenter (Or how I think it be)
+## Model-View-Presenter (with "mono-instanced" Model)
 <p align="center">
   <img src="https://img.shields.io/github/license/peppe998e/ModelViewPresenter"/>
   <img src="https://img.shields.io/github/issues/peppe998e/ModelViewPresenter"/>
