@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVP Example Application</string>
+    <string name="open_other_activity">Open second activity</string>
+    <string name="click_me">Click ME!</string>
+</resources>
