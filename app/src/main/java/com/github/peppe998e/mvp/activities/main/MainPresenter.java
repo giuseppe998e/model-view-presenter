@@ -4,9 +4,9 @@ import android.content.Context;
 import android.content.Intent;
 
 import com.github.peppe998e.mvp.CoreModel;
+import com.github.peppe998e.mvp.activities.example.ExampleView;
 import com.github.peppe998e.mvp.bases.BasePresenter;
 import com.github.peppe998e.mvp.utils.CallBack;
-import com.github.peppe998e.mvp.activities.example.ExampleView;
 
 /**
  * Example class that extends BasePresenter and implements its CONTRACT

@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import com.github.peppe998e.mvp.CoreModel;
+import com.github.peppe998e.mvp.CoreModelImp;
 import com.github.peppe998e.mvp.R;
 import com.github.peppe998e.mvp.bases.BaseView;
 
@@ -18,7 +18,7 @@ public class ExampleView extends BaseView<ExampleContract.Presenter> implements 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_example);
-        setPresenter(new ExamplePresenter(this, (CoreModel) getApplicationContext()));
+        setPresenter(new ExamplePresenter(this, (CoreModelImp) getApplicationContext()));
     }
 
     @Override
