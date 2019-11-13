@@ -12,6 +12,8 @@ if youthink something could be done better or differently.
 
 Thank you all.
 
+## Clarification
+My purpose was not the arrogance of presenting that repository as a library or a base-app. In reality it is only the desire of a student to apply, even in a very trivial way, something that I have studied, simply to fix it better in mind.
 
 ## Changelog
 The changelog for this project can be found in the [CHANGELOG](CHANGELOG.md) file.
