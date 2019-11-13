@@ -1,7 +1,7 @@
 package com.github.peppe998e.mvp.activities.example;
 
 import com.github.peppe998e.mvp.CoreModel;
-import com.github.peppe998e.mvp.bases.BasePresenter;
+import com.github.peppe998e.mvp.activities.base.BasePresenter;
 import com.github.peppe998e.mvp.utils.CallBack;
 
 /**

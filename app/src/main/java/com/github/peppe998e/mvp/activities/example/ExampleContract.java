@@ -1,6 +1,6 @@
 package com.github.peppe998e.mvp.activities.example;
 
-import com.github.peppe998e.mvp.bases.BaseContract;
+import com.github.peppe998e.mvp.activities.base.BaseContract;
 
 /**
  * These interfaces contain all the methods that MUST be implemented

@@ -1,4 +1,4 @@
-package com.github.peppe998e.mvp.bases;
+package com.github.peppe998e.mvp.activities.base;
 
 /**
  * This abstract class is a support (optional) class for the various PRESENTERS,

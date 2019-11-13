@@ -1,4 +1,4 @@
-package com.github.peppe998e.mvp.bases;
+package com.github.peppe998e.mvp.activities.base;
 
 /**
  * These interfaces contain all the methods that MUST be implemented

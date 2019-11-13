@@ -1,4 +1,4 @@
-package com.github.peppe998e.mvp.bases;
+package com.github.peppe998e.mvp.activities.base;
 
 import androidx.appcompat.app.AppCompatActivity;
 

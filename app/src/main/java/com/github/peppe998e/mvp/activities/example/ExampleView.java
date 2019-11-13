@@ -6,7 +6,7 @@ import android.widget.Toast;
 
 import com.github.peppe998e.mvp.CoreModelImp;
 import com.github.peppe998e.mvp.R;
-import com.github.peppe998e.mvp.bases.BaseView;
+import com.github.peppe998e.mvp.activities.base.BaseView;
 
 /**
  * Example class that extends BaseView and implements its CONTRACT
