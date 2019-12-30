@@ -6,6 +6,7 @@ package com.github.peppe998e.mvp.utils;
  *
  * @param <T>
  */
+@FunctionalInterface
 public interface CallBack<T> {
     void exec(T value);
 }
